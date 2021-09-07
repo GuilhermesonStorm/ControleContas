@@ -1,0 +1,16 @@
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.exe
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.deps.json
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.runtimeconfig.json
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.runtimeconfig.dev.json
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.dll
+D:\www\C#\aulasPOO\bin\Debug\net5.0\ref\aulasPOO.dll
+D:\www\C#\aulasPOO\bin\Debug\net5.0\aulasPOO.pdb
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.csproj.AssemblyReference.cache
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.AssemblyInfoInputs.cache
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.AssemblyInfo.cs
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.csproj.CoreCompileInputs.cache
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.dll
+D:\www\C#\aulasPOO\obj\Debug\net5.0\ref\aulasPOO.dll
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.pdb
+D:\www\C#\aulasPOO\obj\Debug\net5.0\aulasPOO.genruntimeconfig.cache
